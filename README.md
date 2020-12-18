@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width=30 />, I'm Phương Nam <img src="https://emojis.slackmojis.com/emojis/images/1531847273/4225/blob-beers.gif?1531847273" width=30></h1>
 
+<p align="center"> <br><img src="https://magiccopy.xyz/assets/images/hadder.gif" width="450px"><br><br>
+ 
+ - 🔭 I’m currently working on **HOME**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuowngNam&layout=compact&hide=html" alt="phuowngnam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhuowngNam&show_icons=true&theme=dark" alt="phuowngnam" /></p>
 <!--
 **PhuowngNam/PhuowngNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
