@@ -2,7 +2,7 @@
 
 <p align="center"> <br><img src="https://magiccopy.xyz/assets/images/hadder.gif" width="450px"><br><br>
  
- - 🔭 I’m currently working on **HOME**
+ - 🔭 I’m currently working at **HOME**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuowngNam&layout=compact&hide=html" alt="phuowngnam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhuowngNam&show_icons=true&theme=dark" alt="phuowngnam" /></p>
